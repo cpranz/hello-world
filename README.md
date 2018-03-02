@@ -1,3 +1,3 @@
 # hello-world
-Ein kleiner Workshop
-Alles nur zur Einarbeitung
+Ein kleiner Workshop,
+alles nur zur Einarbeitung
